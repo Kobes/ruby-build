@@ -19,8 +19,9 @@ Installing ruby-build as an rbenv plugin will give you access to the
 
 This will install the latest development version of ruby-build into
 the `~/.rbenv/plugins/ruby-build` directory. From that directory, you
-can check out a specific release tag. To update ruby-build, run `git
-pull` to download the latest changes.
+can check out a specific release tag. 
+#### Updating
+run `git pull` to download the latest changes.
 
 ### Installing as a standalone program (advanced)
 
